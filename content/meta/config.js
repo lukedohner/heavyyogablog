@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: "HeavyYoga", // <title>
-  shortSiteTitle: "Heavy Yoga - Blogga", // <title> ending for posts and pages
+  shortSiteTitle: "Heavy Yoga - Blogga!1", // <title> ending for posts and pages
   siteDescription: "Heavy Yoga is Gravity's Plaything.",
   siteUrl: "https://www.heavyyoga.com",
   // pathPrefix: "",
