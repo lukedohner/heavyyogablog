@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: "HeavyYoga", // <title>
-  shortSiteTitle: "Heavy Yoga - Blogga!1", // <title> ending for posts and pages
+  shortSiteTitle: "Heavy Yoga - Blogga", // <title> ending for posts and pages
   siteDescription: "Heavy Yoga is Gravity's Plaything.",
   siteUrl: "https://www.heavyyoga.com",
   // pathPrefix: "",
@@ -12,7 +12,7 @@ module.exports = {
   authorTwitterAccount: "",
 
   /* info */
-  headerTitle: "heavy yoga",
+  headerTitle: "heavy yoga blogga",
   headerSubTitle: "presents just one more idea",
 
   /* manifest.json */
