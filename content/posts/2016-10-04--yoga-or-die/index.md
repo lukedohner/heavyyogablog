@@ -11,7 +11,7 @@ Not this one in my leg to hip joint I blame on my not doing yoga in the morning 
 Now I will do some yoga, it is Sunday, so I am at home in the warmth.
 As noted in my entry earlier I do a spot of yoga in the morning. 
 
-I am not really a student of yoga. More of a improviser.
+I am not really a student of yoga, more of a improviser.
 If any one has yoga ideas or poses or comments please send them to me. This is Heavy Yoga, there is no right or wring way. It is not the only way, But this is non-secret. There is no hidden knowledge.
 ######Crater Psyche on near-Earth asteroid 433 Eros
 ![](photo-near_psyche_mos.jpg)
