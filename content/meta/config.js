@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: "HeavyYoga", // <title>
   shortSiteTitle: "Heavy Yoga - Blogga", // <title> ending for posts and pages
-  siteDescription: "Heavy Yoga is Gravity's Plaything.",
+  siteDescription: "Heavy Yoga is Gravity's Plaything. yoga, open source yoga, relaxing, pain relief, yoga or die",
   siteUrl: "https://www.heavyyoga.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
@@ -12,12 +12,12 @@ module.exports = {
   authorTwitterAccount: "",
 
   /* info */
-  headerTitle: "heavy yoga blogga",
+  headerTitle: "Heavy Yoga blogga",
   headerSubTitle: "presents just one more idea",
 
   /* manifest.json */
   manifestName: "Heavy Yoga",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestShortName: "Heavy Yoga blog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",

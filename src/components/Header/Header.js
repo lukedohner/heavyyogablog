@@ -101,6 +101,8 @@ class Header extends React.Component {
             font-size: ${theme.font.size.m};
             font-weight: ${theme.font.weight.standard};
             margin: ${theme.space.stack.xs};
+            color: ${theme.text.color.attention};
+
           }
 
           h2 {
@@ -108,6 +110,8 @@ class Header extends React.Component {
             font-size: ${theme.font.size.xxs};
             letter-spacing: 0;
             margin: 0;
+            color: ${theme.text.color.attention};
+            
           }
 
           .logo {
@@ -190,6 +194,7 @@ class Header extends React.Component {
 
                 h1 {
                   margin: ${theme.space.stack.xxs};
+                  color: #bb1d1d;
                 }
 
                 h2 {
@@ -200,10 +205,10 @@ class Header extends React.Component {
               &.homepage:not(.fixed) {
                 :global(a.logoType),
                 h1 {
-                  color: ${theme.color.neutral.white};
+                  color: ${theme.text.color.attention};
                 }
                 h2 {
-                  color: ${theme.color.neutral.gray.d};
+                  color: ${theme.text.color.attention};
                 }
               }
             }

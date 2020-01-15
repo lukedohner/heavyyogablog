@@ -2,9 +2,13 @@
 title: footnote
 ---
 
-* it's a demo site of the [gatsby-starter-hero-blog](https://github.com/greglobinski/gatsby-starter-hero-blog)
-* built by [greg lobinski](https://www.greglobinski.com)
-* Check [Front-end web development with Greg](https://dev.greglobinski.com)
+* This is blog of Heavy Yoga [Heavy Yoga Blogga](https://www.heavyyoga.com)
+* built by [luke dohner and friends](https://www.lukedohner.com)
+* Check [Dev](hhttps://www.lukedohner.com)
 * delivered by [Netlify](https://www.netlify.com/)
-* photos by [unsplash.com](https://unsplash.com)
-* graphic by [pixabay.com](https://pixabay.com)
+* photos by [ld and other](https://www.lukedohner.com)
+* graphics by [What I make or find](https://www.lukedohner.com)
+* graphics by [What I make or find](https://www.lukedohner.com)
+* graphics by [What I make or find](https://www.lukedohner.com)
+* graphics by [What I make or find](https://www.lukedohner.com)
+<!-- * graphics by [pixabay.com](https://pixabay.com) -->

@@ -54,14 +54,15 @@ color:
       k: '#2b2826'
     black: '#000000'
   brand:
-    primary: &color-brand-primary '#709425'
-    primaryActive: '#709425'
-    light: '#709425'
-    lightActive: '#709425'
-    dark: '#709425'
-    darkActive: '#709425'
+    primary: &color-brand-primary '#bec8d1'
+    primaryActive: '#bec8d1'
+    light: '#bec8d1'
+    lightActive: '#bec8d1'
+    dark: '#bec8d1'
+    darkActive: '#bec8d1'
+    primaryTrans: &color-brand-trans '#bec8d19c'
   special:
-    attention: &color-special-attention orange
+    attention: &color-special-attention '#23dcc0'
 # FONT
 font:
   # font options
@@ -77,6 +78,7 @@ font:
     s: &font-size-s 1.1em
     m: &font-size-m 1.35em
     l: &font-size-l 1.7em
+    ll: &font-size-l 1.8em
     xl: &font-size-xl 2em
     xxl: &font-size-xl 2.2em
     xxxl: &font-size-xxl 2.8em
@@ -101,6 +103,7 @@ background:
     primary: *color-white
     alt: *color-gray-1
     brand: *color-brand-primary
+    brandtrans: *color-brand-trans
 text:
   family: *font-family-target
   color:
@@ -135,6 +138,11 @@ hero:
   h1:
     size: *font-size-xxl
     color: *color-white
+    lineHeight: *font-line-height-xs
+  h2:
+    size: *font-size-xl
+    # color: *color-white
+    color: *color-gray-3
     lineHeight: *font-line-height-xs
   background: 'linear-gradient(0deg, #E0306E, #6438B5)'
 blog:

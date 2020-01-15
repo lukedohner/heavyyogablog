@@ -1,4 +1,4 @@
-import { FaArrowRight } from "react-icons/fa/";
+import { FaRunning } from "react-icons/fa/";
 import { FaCalendar } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
 import { FaUser } from "react-icons/fa/";
@@ -32,7 +32,7 @@ const Item = props => {
             <Img fluid={fluid} />
           </div>
           <h1>
-            {title} <FaArrowRight className="arrow" />
+            {title} <FaRunning size={36} className="arrow" />
           </h1>
           <p className="meta">
             <span>
@@ -112,7 +112,7 @@ const Item = props => {
           :global(.arrow) {
             display: none;
             position: relative;
-            top: 7px;
+            top: 12px;
           }
         }
 
@@ -226,9 +226,10 @@ const Item = props => {
               display: inline-block;
               fill: ${theme.color.special.attention};
               stroke: ${theme.color.special.attention};
-              stroke-width: 40;
+              stroke-width: 10;
               stroke-linecap: round;
               opacity: 0;
+              top: 4px;
               transition: all 0.5s;
               transform: translateX(-50%);
             }

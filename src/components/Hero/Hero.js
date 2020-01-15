@@ -1,7 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { FaArrowDown } from "react-icons/fa/";
+// import { FaArrowDown } from "react-icons/fa/";
+import { IoIosBody } from "react-icons/io/";
 
 const Hero = props => {
   const { scrollToContent, backgrounds, theme } = props;
@@ -9,11 +10,11 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
-        <h1>
-          Fine, what is&nbsp;the <strong> Heavy Yoga</strong> Blogger?
-        </h1>
+        <h2>
+          And so, what is <strong>Heavy Yoga</strong> blogger?
+        </h2>
         <button onClick={scrollToContent} aria-label="scroll">
-          <FaArrowDown />
+          <IoIosBody />
         </button>
       </section>
 
@@ -28,46 +29,51 @@ const Hero = props => {
           display: flex;
           flex-flow: column nowrap;
           justify-content: center;
-          min-height: 100vh;
+          min-height: 50vh;
           height: 100px;
           padding: ${theme.space.inset.l};
           padding-top: ${theme.header.height.homepage};
         }
 
-        h1 {
+          h2 {
           text-align: center;
-          font-size: ${theme.hero.h1.size};
+          font-size: ${theme.hero.h2.size};
           margin: ${theme.space.stack.l};
-          color: ${theme.hero.h1.color};
-          line-height: ${theme.hero.h1.lineHeight};
+          color: ${theme.hero.h2.color};
+          line-height: ${theme.hero.h2.lineHeight};
           text-remove-gap: both 0 "Open Sans";
 
           :global(strong) {
             position: relative;
-
+            color: ${theme.text.color.attention};
+            font-size: 2.2em;
+            text-shadow: 2px 2px 8px #4a7aa7;
             &::after,
             &::before {
-              content: "›";
+              content: "~";
               color: ${theme.text.color.attention};
               margin: 0 ${theme.space.xs} 0 0;
               text-shadow: 0 0 ${theme.space.s} ${theme.color.neutral.gray.k};
             }
             &::after {
-              content: "‹";
+              content: "~";
               margin: 0 0 0 ${theme.space.xs};
             }
           }
         }
 
         button {
-          background: ${theme.background.color.brand};
+          background: ${theme.background.color.brandtrans};
           border: 0;
-          border-radius: 50%;
+          border-top-left-radius: 50%;
+          border-top-right-radius: 50%;
+          border-bottom-right-radius: 0%;
+          border-bottom-left-radius: 0%;
           font-size: ${theme.font.size.m};
           padding: ${theme.space.s} ${theme.space.m};
           cursor: pointer;
           width: ${theme.space.xl};
-          height: ${theme.space.xl};
+          height: ${theme.space.ll};
 
           &:focus {
             outline-style: none;
@@ -78,7 +84,7 @@ const Hero = props => {
             position: relative;
             top: 5px;
             fill: ${theme.color.neutral.white};
-            stroke-width: 40;
+            stroke-width: 0;
             stroke: ${theme.color.neutral.white};
             animation-duration: ${theme.time.duration.long};
             animation-name: buttonIconMove;
