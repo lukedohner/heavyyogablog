@@ -52,7 +52,7 @@ color:
       i: '#514f4d'
       j: &color-gray-10 '#3e3e3c'
       k: '#2b2826'
-    black: '#000000'
+    black: &color-black '#000000'
   brand:
     primary: &color-brand-primary '#bec8d1'
     primaryActive: '#bec8d1'
