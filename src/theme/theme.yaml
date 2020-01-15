@@ -62,7 +62,8 @@ color:
     darkActive: '#bec8d1'
     primaryTrans: &color-brand-trans '#bec8d19c'
   special:
-    attention: &color-special-attention '#23dcc0'
+    attention: &color-special-attention '#de273d'
+    attention2: &color-special-attention2 '#23dcc0'
 # FONT
 font:
   # font options
