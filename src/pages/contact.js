@@ -4,6 +4,7 @@ import { graphql } from "gatsby";
 import { ThemeContext } from "../layouts";
 import Article from "../components/Article";
 import Contact from "../components/Contact";
+import Emailer from "../components/Emailer";
 import Headline from "../components/Article/Headline";
 import Seo from "../components/Seo";
 
