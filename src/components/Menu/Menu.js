@@ -231,7 +231,7 @@ class Menu extends React.Component {
               list-style: none;
               margin: 0;
               position: absolute;
-              background: ${theme.background.color.primary};
+              background: ${theme.background.color.special3};
               border: 1px solid ${theme.line.color};
               top: 48px;
               right: ${theme.space.s};

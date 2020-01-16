@@ -164,7 +164,7 @@ class Layout extends React.Component {
                       }
                       a {
                         text-decoration: none;
-                        color: #de273d;
+                        color: #000000;
 
                       }
                       main {

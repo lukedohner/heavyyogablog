@@ -7,6 +7,8 @@ import Input from "antd/lib/input";
 import PropTypes from "prop-types";
 import React from "react";
 
+import Emailer from './emailer'
+
 const FormItem = Form.Item;
 const { TextArea } = Input;
 import "antd/lib/form/style/index.css";
@@ -58,7 +60,7 @@ const Contact = props => {
       <ThemeContext.Consumer>
         {theme => (
           <div className="form">
-            <Form
+            {/*<Form
               name="contact"
               onSubmit={handleSubmit}
               data-netlify="true"
@@ -99,8 +101,8 @@ const Contact = props => {
                   Submit
                 </Button>
               </FormItem>
-            </Form>
-
+            </Form>*/}
+            <Emailer />
             {/* --- STYLES --- */}
             <style jsx>{`
               .form {
