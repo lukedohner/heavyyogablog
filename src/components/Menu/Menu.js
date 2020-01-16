@@ -245,7 +245,7 @@ class Menu extends React.Component {
 
               &:after {
                 content: "";
-                background: ${theme.background.color.primary};
+                background: ${theme.background.color.special3};
                 z-index: 10;
                 top: -10px;
                 right: -1px;

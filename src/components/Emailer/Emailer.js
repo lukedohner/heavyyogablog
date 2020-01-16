@@ -1,14 +1,10 @@
 
-
-
 import { navigate } from "gatsby";
 import Button from "antd/lib/button";
 import Form from "antd/lib/form";
 import Input from "antd/lib/input";
 import PropTypes from "prop-types";
 import React from "react";
-
-
 
 const FormItem = Form.Item;
 const { TextArea } = Input;
@@ -28,7 +24,7 @@ const Emailer = ({ siteTitle, siteDescription }) => (
 
           <FormItem label="Name" required>
           
-          <Input name="email" type="email"  placeholder="Your email" ></Input>
+          <Input name="email" type="email"  placeholder="Your email (so I can email you!)" ></Input>
 
           
           </FormItem>
