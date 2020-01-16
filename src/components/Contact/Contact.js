@@ -7,7 +7,7 @@ import Input from "antd/lib/input";
 import PropTypes from "prop-types";
 import React from "react";
 
-import Emailer from '../Emailer/emailer'
+import Emailer from '../Emailer/Emailer'
 
 const FormItem = Form.Item;
 const { TextArea } = Input;

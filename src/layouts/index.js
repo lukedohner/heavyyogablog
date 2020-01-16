@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 import React from "react";
 import { graphql, StaticQuery } from "gatsby";
 
+
 import { getScreenWidth, timeoutThrottlerHandler } from "../utils/helpers";
 import Footer from "../components/Footer/";
 import Header from "../components/Header";

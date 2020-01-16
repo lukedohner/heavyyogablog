@@ -26,6 +26,8 @@ const ContactPage = props => {
               <Headline title="Contact Heavy Yoga" theme={theme} />
             </header>
             <Contact theme={theme} />
+            
+            {/* --- <Emailer /> />*/}
           </Article>
         )}
       </ThemeContext.Consumer>

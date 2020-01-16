@@ -1,10 +1,13 @@
 
+import PropTypes from "prop-types";
+import React from "react";
+import { graphql } from "gatsby";
+
 import { navigate } from "gatsby";
 import Button from "antd/lib/button";
 import Form from "antd/lib/form";
 import Input from "antd/lib/input";
-import PropTypes from "prop-types";
-import React from "react";
+
 
 const FormItem = Form.Item;
 const { TextArea } = Input;
@@ -24,7 +27,7 @@ const Emailer = ({ siteTitle, siteDescription }) => (
 
           <FormItem label="Name" required>
           
-          <Input name="email" type="email"  placeholder="Your email (so I can email you!)" ></Input>
+          <Input name="email" type="email"  placeholder="Your email (so I can email you (note)!)" ></Input>
 
           
           </FormItem>
@@ -38,7 +41,7 @@ const Emailer = ({ siteTitle, siteDescription }) => (
 
           
           <input className="ant-btn-primary" type="submit" value="Tell Heavy Yoga!"></input>
-          <input type="hidden" name="_subject" value="New submission from LocalHost:8000! You may know it as hhhheavyyoga.com" />
+          <input type="hidden" name="_subject" value="New submission from LocalHost:8000 or Heavy Yoga.com! You may know it as heavyyoga.com" />
         </form>
               <style jsx>{`
               .form {
