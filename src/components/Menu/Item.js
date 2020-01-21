@@ -31,6 +31,7 @@ const Item = props => {
             padding: ${theme.space.inset.s};
             display: flex;
             align-items: center;
+            color: ${theme.text.color.attention};
           }
 
           :global(svg) {
@@ -46,7 +47,7 @@ const Item = props => {
         @from-width desktop {
           .item {
             :global(a) {
-              color: ${theme.text.color.attention2};
+              color: ${theme.text.color.attention};
               padding: ${theme.space.inset.s};
               transition: all ${theme.time.duration.default};
               border-radius: ${theme.size.radius.small};
@@ -54,6 +55,7 @@ const Item = props => {
 
             :global(.homepage):not(.fixed) & :global(a) {
               color: ${theme.text.color.attention};
+
             }
 
             :global(a:hover) {
@@ -84,7 +86,7 @@ const Item = props => {
             padding: ${theme.space.xs};
 
             & :global(a.inHiddenItem) {
-              color: ${theme.text.color.primary};
+              color: ${theme.text.color.attention};
               &:hover {
                 color: ${theme.color.brand.primary};
               }
