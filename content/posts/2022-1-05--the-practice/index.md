@@ -1,5 +1,5 @@
 ---
-title: Heavy Yoga is the practicing of
+title: Heavy Yoga is the practice of
 category: "What is"
 cover: photo-apple.png
 author: luke dohner
