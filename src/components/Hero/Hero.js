@@ -11,7 +11,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h2>
-          And so, what is <strong>Heavy Yoga</strong> blogger?
+          And <strong>Heavy Yoga</strong> what is?
         </h2>
         <button onClick={scrollToContent} aria-label="scroll">
           <IoIosBody />
