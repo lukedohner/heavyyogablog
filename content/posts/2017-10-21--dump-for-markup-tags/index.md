@@ -1,13 +1,13 @@
 ---
 title: dump for markup tags
-category: "testimonies"
-cover: photo-1465070845512-2b2dbdc6df66.jpg
-author: greg lobinski
+category: "Trivial"
+cover: tolo.jpg
+author: ld
 ---
 
 :100: 
 
-![unsplash.com](./photo-1465070845512-2b2dbdc6df66.jpg)
+
 
 ### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
 
@@ -30,6 +30,6 @@ Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec 
 
 
 
-![test](./33893097-e5a70c34-df5a-11e7-8f5e-40e057626770.png)
+
 
 
