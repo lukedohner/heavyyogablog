@@ -151,7 +151,7 @@ class Layout extends React.Component {
                       h3 {
                         font-weight: ${this.state.font600loaded ? 600 : 400};
                         line-height: 1.1;
-                        letter-spacing: -0.03em;
+                        letter-spacing: 0em;
                         margin: 0;
                       }
                       h1 {

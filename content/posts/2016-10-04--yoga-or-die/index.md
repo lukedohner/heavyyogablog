@@ -13,8 +13,17 @@ As noted in my entry earlier I do a spot of yoga in the morning.
 
 I am not really a student of yoga, more of a improviser.
 If any one has yoga ideas or poses or comments please send them to me. This is Heavy Yoga, there is no right or wring way. It is not the only way, But this is non-secret. There is no hidden knowledge.
+
 ######Crater Psyche on near-Earth asteroid 433 Eros
-![](photo-near_psyche_mos.jpg)
+![psyche](photo-near_psyche_mos.jpg)
+
+
+######Click image to see video
+
+[![a video](http://img.youtube.com/vi/R2ovoRyv4kw/0.jpg)](http://www.youtube.com/watch?v=R2ovoRyv4kw)
+
 
 
 There is no long stoic path, no masters here, it's for everyone.
+
+
