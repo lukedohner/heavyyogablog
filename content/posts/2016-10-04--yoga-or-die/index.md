@@ -20,10 +20,22 @@ If any one has yoga ideas or poses or comments please send them to me. This is H
 
 ######Click image to see video
 
-[![a video](http://img.youtube.com/vi/R2ovoRyv4kw/0.jpg)](http://www.youtube.com/watch?v=R2ovoRyv4kw)
-
-
 
 There is no long stoic path, no masters here, it's for everyone.
 
+# Look at this Video:
 
+`video: https://www.youtube.com/embed/2Xc9gXyf2G4`
+`youtube: https://www.youtube.com/watch?v=2Xc9gXyf2G4`
+`youtube: 2Xc9gXyf2G4`
+
+`vimeo: https://vimeo.com/5299404`
+`vimeo: 5299404`
+
+`videoPress: https://videopress.com/v/kUJmAcSf`
+`videoPress: kUJmAcSf`
+
+`twitch: https://player.twitch.tv/?channel=dakotaz`
+`twitch: https://player.twitch.tv/?autoplay=false&video=v273436948`
+`twitch: 273436948`
+`twitchLive: dakotaz`

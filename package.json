@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "antd": "^3.7.0",
+    "braces": "^2.3.1",
     "fontfaceobserver": "^2.0.13",
     "gatsby": "^2.0.21",
     "gatsby-image": "^2.0.5",
@@ -23,6 +24,7 @@
     "gatsby-plugin-styled-jsx": "^3.0.1",
     "gatsby-plugin-styled-jsx-postcss": "^2.0.2",
     "gatsby-remark-copy-linked-files": "^2.0.5",
+    "gatsby-remark-embed-video": "^2.0.1",
     "gatsby-remark-emojis": "^0.2.3",
     "gatsby-remark-external-links": "^0.0.4",
     "gatsby-remark-images": "^2.0.1",
