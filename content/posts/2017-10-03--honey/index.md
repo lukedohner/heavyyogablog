@@ -1,6 +1,6 @@
 ---
 title: honey
-category: "sayings"
+category: "Food"
 cover: photo-honey.jpg
 author: luke dohner
 ---

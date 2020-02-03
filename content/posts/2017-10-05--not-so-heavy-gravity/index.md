@@ -1,7 +1,7 @@
 ---
 title: Not So Heavy Gravity
 category: "What is"
-cover: photo-1456518563096-0ff5ee08204e.jpg
+cover: tea.jpg
 author: luke dohner
 ---
 
@@ -29,32 +29,8 @@ An astronaut can lose up to 40% of her bone mass.
 One piece of exercise equipment used in space is a like a vacuum cleaner tube, about 3 feet round and comes up to the waist of an astronaut. The astronaut stands in the device and it sucks down on the exerciser to simulate gravity. So gravity really sucks well.
 Heavy yoga is dedicated to research and poetic enthusiasm relating to gravity.
 
-### On deer horse aboard tritely yikes and much
+### Why can't the tea come to me?
 
+![alt text](tea.jpg)
 
-
-![alt text](https://i.imgur.com/Eho24Bu.jpg)
-
-The Big Oxmox advised her not to do so, because there were thousands of
-
-1. First item
-2. Second itemssss
-3. Third item
-4. Fourth item
-5. 
-
-bad Commas, wild Question Marks and devious Semikoli, but the Little
-Blind Text didn’t listen. She packed her seven versalia, put her initial
-into the belt and made herself on the way.
-
-* This however showed weasel
-* Well uncritical so misled
-* Goodness much until that fluid owl
-
-*   This is the first list item.
-*   Here's the second list item.
-
-    I need to add another paragraph below the second list item.
-
-*   And here's the third list item.
 

@@ -53,11 +53,12 @@ const Hero = props => {
               content: "~";
               color: ${theme.text.color.attention};
               margin: 0 ${theme.space.xs} 0 0;
-              text-shadow: 0 0 ${theme.space.s} ${theme.color.neutral.gray.k};
+              text-shadow: 2px 2px 8px #4a7aa7;
             }
             &::after {
               content: "~";
               margin: 0 0 0 ${theme.space.xs};
+              text-shadow: 2px 2px 8px #4a7aa7;
             }
           }
         }

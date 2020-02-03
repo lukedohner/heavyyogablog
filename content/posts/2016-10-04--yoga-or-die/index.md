@@ -1,6 +1,6 @@
 ---
 title: Yoga or Die
-category: "sayings"
+category: "Sayings"
 cover: photo-near_psyche_mos.jpg
 author: luke dohner
 ---
